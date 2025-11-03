@@ -1,7 +1,3 @@
-Perfect — here’s your **GitHub-ready README.md** with clean badges, spacing, and proper Markdown hierarchy:
-
----
-
 # 🧭 Cubemap → Equirectangular Converter
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)](https://www.python.org/)
@@ -72,9 +68,9 @@ pip install opencv-python numpy py360convert argparse
 
 ## 🧠 Example Output
 
-| Input Faces                                                                                                                   | Output                                                                                                                                                          |
+| Example Input Face (6 faces needed)                                                                                                                   | Example Output                                                                                                                                                          |
 | ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Cubemap Example](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Cube_map_example.jpg/256px-Cube_map_example.jpg) | ![Equirectangular Example](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Equirectangular_projection_SW.jpg/512px-Equirectangular_projection_SW.jpg) |
+| ![Cubemap Example](negx.png) | ![Equirectangular Example](panorama.png) |
 
 ---
 
@@ -90,7 +86,3 @@ pip install opencv-python numpy py360convert argparse
 
 **MIT License © 2025 Moksh Verma**
 You’re free to modify, distribute, or integrate this into your 3D, VR, or panoramic workflows.
-
----
-
-Would you like a **“Usage Preview” GIF section** (showing console input → output panorama) to make the README stand out more on GitHub? I can generate or template that in next.
